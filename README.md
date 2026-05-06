@@ -1,18 +1,16 @@
 # 100Hires
 Junior Growth Marketing Specialist - Portfolio Project
 
-## The Task
-1. Install Cursor IDE — https://cursor.com/
-2. Add the Claude Code add-on in Cursor (Extensions → search "Claude Code") and log in to it.
-3. Add the Codex add-on in Cursor (Extensions → search "Codex") and log in to it.
-4. Create a public GitHub repository (if you don't have a GitHub account yet, create one at https://github.com/)
-5. Open the repository in Cursor
-6. Create a README.md file that describes:
-7. Commit and push to GitHub
-8. Reply to this email with the link to your README.md file on GitHub
+## Overview
+This project documents the setup of a development environment using Cursor IDE, along with the installation and testing of AI coding extensions (Claude Code and Codex).
+
+The objective was not only to complete the setup, but to demonstrate independent problem-solving, tool exploration, and decision-making when encountering limitations.
 
 ## Tools I installed
-Cursor IDE
+Cursor IDE (Mac)
+GitHub
+Claude Code Extension
+Codex Extension
 
  ## Steps I completed
 1. Created a GitHub account via https://github.com/
