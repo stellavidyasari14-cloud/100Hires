@@ -25,3 +25,4 @@ The Claude Code and Codex extensions did not initially appear in the marketplace
 **Resolution**
 I found that opening the Extensions panel manually using `Cmd + Shift + X` allowed me to access the search bar. From there, I was able to locate and install the Claude Code and Codex extension successfully.
 
+stella
