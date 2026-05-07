@@ -16,8 +16,8 @@ Junior Growth Marketing Specialist - Portfolio Project
 4. Installed the Codex and add extension
 5. Create a public GitHub repository
 6. Open the repository in Cursor
-7. Create README.md file
-8. Commit and push to Github
+7. Create README.md file on VS Code
+8. Commit and push to Github via Cursor
 
 ## Issues I ran into and how I solved them
 **Problem**
