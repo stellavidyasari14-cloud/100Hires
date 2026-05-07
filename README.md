@@ -4,8 +4,8 @@ Junior Growth Marketing Specialist - Portfolio Project
 ## Tools I installed
 - Cursor IDE (Mac)
 - Claude Code Extension
-- VS Code
 - Codex Extension
+- VS Code
 - Homebrew
 - Git
 
