@@ -2,11 +2,11 @@
 Junior Growth Marketing Specialist - Portfolio Project
 
 ## Tools I installed
-Cursor IDE (Mac)
-Claude Code Extension
-Codex Extension
-Homebrew
-Git
+- Cursor IDE (Mac)
+- Claude Code Extension
+- Codex Extension
+- Homebrew
+- Git
 
  ## Steps I completed
 1. Created a GitHub account via https://github.com/
@@ -20,6 +20,7 @@ Git
 ## Issues I ran into and how I solved them
 **Problem**
 The Claude Code and Codex extensions did not initially appear in the marketplace. 
+
 **Resolution**
 I found that opening the Extensions panel manually using `Cmd + Shift + X` allowed me to access the search bar. From there, I was able to locate and install the Claude Code extension successfully.
 
