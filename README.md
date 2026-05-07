@@ -10,12 +10,13 @@ Junior Growth Marketing Specialist - Portfolio Project
 
  ## Steps I completed
 1. Created a GitHub account via https://github.com/
-2. Installed Cursor IDE on Mac and signed in using GitHub
-3. Installed the Claude Code extension
-4. Installed the Codex extension
+2. Installed Cursor IDE
+3. Installed the Claude Code and add extension
+4. Installed the Codex and add extension
 5. Create a public GitHub repository
 6. Open the repository in Cursor
-7. Commit and push the repository to Github
+7. Create README.md file
+8. Commit and push to Github
 
 ## Issues I ran into and how I solved them
 **Problem**
