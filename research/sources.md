@@ -8,7 +8,7 @@ Built Lavender's AI email coach on billions of analyzed emails. Posts daily cold
 2021 — Named LinkedIn Top Sales Voice
 2024+ — Expanded to AI-powered cold email agents (Ora.im)
 
-Linkedin https://www.linkedin.com/in/williamallred/
+[Linkedin](#https://www.linkedin.com/in/williamallred/)
 
 ## 2. Josh Braun
 Creator of the "Poke the Bear" method and Badass B2B Growth Guide. Helped clients like Aunt Flow grow from 10 to 200+ enterprise customers. Trained Slack, Twitter, Viacom.
