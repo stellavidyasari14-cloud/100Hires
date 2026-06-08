@@ -25,3 +25,12 @@ The Claude Code and Codex extensions did not initially appear in the marketplace
 
 **Resolution**
 I found that opening the Extensions panel manually using `Cmd + Shift + X` allowed me to access the search bar. From there, I was able to locate and install the Claude Code and Codex extension successfully.
+
+##10 Experts on "Cold outreach pipeline for B2B SaaS"
+I collected:
+1. 10 experts on "Cold outreach pipeline for B2B SaaS" with links, dates, and brief annotations
+2. YouTube transcripts organized by video
+3. Latest LinkedIn post organized by outhor
+
+**Why I chose these experts?**
+I have choosen these experts because they have direct experience and clear acomplishment growing B2B SaaS business. 
