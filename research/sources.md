@@ -3,56 +3,57 @@
 ## 1. Will Allred
 Built Lavender's AI email coach on billions of analyzed emails. Posts daily cold email teardowns — subject lines, reply rates, word count, and structure. LinkedIn Top Sales Voice.
 
-2015 — Co-founded Lavender email coaching platform
-2020 — Started daily LinkedIn content on cold email science
-2021 — Named LinkedIn Top Sales Voice
-2024+ — Expanded to AI-powered cold email agents (Ora.im)
-LinkedIn https://www.linkedin.com/in/williamallred/
+2015 — Co-founded Lavender email coaching platform  
+2020 — Started daily LinkedIn content on cold email science  
+2021 — Named LinkedIn Top Sales Voice  
+2024+ — Expanded to AI-powered cold email agents (Ora.im)  
+
+[LinkedIn](https://www.linkedin.com/in/williamallred/).
 
 
 ## 2. Josh Braun
 Creator of the "Poke the Bear" method and Badass B2B Growth Guide. Helped clients like Aunt Flow grow from 10 to 200+ enterprise customers. Trained Slack, Twitter, Viacom.
 
-Pre-2017 — Head of Business Development at Basecamp; 20+ yrs sales experience
-2017 — Founded Braun Training; launched Inside Selling podcast
-2018 — Published "Badass B2B Growth Guide"; started YouTube channel
-2021+ — "Poke the Bear" cold calling method goes viral on LinkedIn
+Pre-2017 — Head of Business Development at Basecamp; 20+ yrs sales experience  
+2017 — Founded Braun Training; launched Inside Selling podcast  
+2018 — Published "Badass B2B Growth Guide"; started YouTube channel  
+2021+ — "Poke the Bear" cold calling method goes viral on LinkedIn  
 
-LinkedIn https://www.linkedin.com/in/josh-braun/
-Youtube https://www.youtube.com/channel/UCK9rfCmYHBIaC9o-qOsNtLg
-Podcast https://joshbraun.com/podcast-episodes/
+[LinkedIn](https://www.linkedin.com/in/josh-braun/)
+[Youtube](https://www.youtube.com/channel/UCK9rfCmYHBIaC9o-qOsNtLg)
+[Podcast](https://joshbraun.com/podcast-episodes/)
 
 ## 3. Jed Mahrle
 Scaled PandaDoc to $1B valuation as outbound SDR lead. Now helps SaaS startups build cold email systems averaging 30% reply rates. Newsletter + podcast published weekly.
 
-2013–2021 — SDR leader at PandaDoc; helped scale to $1B+ valuation
-2021 — Launched Practical Prospecting newsletter on Substack
-2022 — Co-hosted Mailshake's Practical Prospecting podcast
-2024+ — Averaging 30% reply rate across agency clients; 100+ issues published
+2013–2021 — SDR leader at PandaDoc; helped scale to $1B+ valuation  
+2021 — Launched Practical Prospecting newsletter on Substack  
+2022 — Co-hosted Mailshake's Practical Prospecting podcast  
+2024+ — Averaging 30% reply rate across agency clients; 100+ issues published  
 
-LinkedIn https://www.linkedin.com/in/outboundsales
-Podcast https://podcasts.apple.com/gb/podcast/practical-prospecting/id1659629984
-Newsletter https://content.practicalprospecting.io/
+[LinkedIn](https://www.linkedin.com/in/outboundsales)
+[Podcast](https://podcasts.apple.com/gb/podcast/practical-prospecting/id1659629984)
+[Newsletter](https://content.practicalprospecting.io/)
 
 ## 4. Aaron Ross
 Built Salesforce's outbound engine adding $100M+ in revenue. Author of "Predictable Revenue" — called the Sales Bible of Silicon Valley. Runs an outbound consulting + podcast operation.
 
-2002–2006 — Employee #150 at Salesforce; built Cold Calling 2.0 framework adding $100M+ ARR
-2011 — Published "Predictable Revenue" (called "Sales Bible of Silicon Valley")
-2012 — Founded PredictableRevenue.com consulting company
-2016 — Co-authored "From Impossible to Inevitable" with Jason Lemkin
+2002–2006 — Employee #150 at Salesforce; built Cold Calling 2.0 framework adding $100M+ ARR  
+2011 — Published "Predictable Revenue" (called "Sales Bible of Silicon Valley")  
+2012 — Founded PredictableRevenue.com consulting company  
+2016 — Co-authored "From Impossible to Inevitable" with Jason Lemkin  
 
-LinkedIn https://www.linkedin.com/in/aaronross/
-Podcast https://predictablerevenue.libsyn.com/
-Others https://predictablerevenue.com/
+[LinkedIn](https://www.linkedin.com/in/aaronross/)
+[Podcast](https://predictablerevenue.libsyn.com/)
+[Others](https://predictablerevenue.com/)
 
 ## 5. Chris Walker
 Challenges traditional outbound-first GTM. Runs "GTM Live" — weekly show for SaaS revenue leaders questioning how outbound is executed and measured. He is actively sharing on LinkedIn.
 
-2019 — Founded Refine Labs demand gen agency for B2B SaaS
-2020 — Launched Revenue Vitals podcast; built large LinkedIn following
-2022+ — Became one of the most cited voices challenging spray-and-pray outbound
-2024 — Relaunched show as "GTM Live" focused on revenue strategy
+2019 — Founded Refine Labs demand gen agency for B2B SaaS  
+2020 — Launched Revenue Vitals podcast; built large LinkedIn following  
+2022+ — Became one of the most cited voices challenging spray-and-pray outbound  
+2024 — Relaunched show as "GTM Live" focused on revenue strategy  
 
 LinkedIn https://www.linkedin.com/in/chriswalker171/
 Youtube https://www.youtube.com/@RefineLabs
