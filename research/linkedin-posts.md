@@ -194,7 +194,7 @@ P.S. Oh yeah... here is the link. Come join us. https://luma.com/hhm5x9ll
 
 ## Nick Abraham
 This is a real onboarding form we got.
-<picture>https://www.linkedin.com/feed/update/urn:li:activity:7469046568805945344/
+![nick](https://media.licdn.com/dms/image/v2/D5622AQGXropxSVj4gw/feedshare-shrink_800/B56Z6diR2BKQAc-/0/1780759469692?e=1782345600&v=beta&t=P3fcCXmSx0wsLNKzXX4DQIOrozOE2Hgq_1jYcscb3LM)
 
 ## Belal Batrawy
 You prepped 20 questions for your discovery call. The buyer derailed your entire plan in 60 seconds...
