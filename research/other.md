@@ -1,0 +1,30 @@
+## Jed Mahrle 
+[Newsletter](https://content.practicalprospecting.io/)
+
+The newsletter is built around sharing the exact outbound strategies used to book thousands of meetings for 50+ clients, with 30,000 readers. It's published every 2–3 weeks and is now on issue 147, a strong signal of consistency. Growfusely
+What the content covers:  
+
+- Cold email frameworks (the latest issue shares their #1 cold email framework in 3 steps)
+- LinkedIn outbound strategy — issue 143 breaks down their 2026 LinkedIn outbound strategy and how they've averaged a 30% reply rate across all clients Growfusely
+- Signals-based outreach — real examples of the intent signals they actually use in campaigns
+- Honest breakdowns like "14 things that kill outbound results" and "how we generated 34 leads in one month"
+- A recently launched course with a swipe file of email templates
+
+Best for: SDRs and founders who want proven, no-fluff outbound systems backed by real client results — not theory.
+
+## Aaron Ross 
+[Website](https://predictablerevenue.com/)  
+
+The site positions the company as outbound sales development experts who help companies accelerate growth, either by teaching them how to do it or doing it for them. Podchaser
+What's available:  
+
+- Four Funnels framework - a chain-link system covering Meet (start conversations with prospects outside your network), Disco (convert meetings into pipeline), Manage (handle active and nurture deals), and Nurture (stay in touch with accounts not yet ready to buy) Podchaser
+- Services: Founder coaching, an Outbound Accelerator program, and sales development coaching
+- Free resources: Blog, podcast, field guides, ebooks, webinars, sales guides, a free email assessment tool, and an SDR calculator
+- Human/AI Manifesto — a recently published stance on AI-powered outbound, arguing that AI is a tool to enhance human sellers, not replace them Podchaser
+- Case studies showing real pipeline results, including a client testimonial referencing "meetings just arriving to our inbox" Podchaser
+
+Best for: Founders and sales leaders who want to build or fix an outbound system at the structural level, team design, funnel architecture, and SDR coaching.
+
+
+
