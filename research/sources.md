@@ -1,7 +1,7 @@
 # 10 experts on "Cold outreach pipeline for B2B SaaS"
 
 ## 1. Will Allred
-Built Lavender's AI email coach on billions of analyzed emails. Posts daily cold email teardowns — subject lines, reply rates, word count, and structure. LinkedIn Top Sales Voice.
+Built Lavender's AI email coach on billions of analyzed emails. Posts daily cold email teardowns subject lines, reply rates, word count, and structure. LinkedIn Top Sales Voice.
 
 2015 — Co-founded Lavender email coaching platform  
 2020 — Started daily LinkedIn content on cold email science  
@@ -36,7 +36,7 @@ Scaled PandaDoc to $1B valuation as outbound SDR lead. Now helps SaaS startups b
 [Newsletter](https://content.practicalprospecting.io/)
 
 ## 4. Aaron Ross
-Built Salesforce's outbound engine adding $100M+ in revenue. Author of "Predictable Revenue" — called the Sales Bible of Silicon Valley. Runs an outbound consulting + podcast operation.
+Built Salesforce's outbound engine adding $100M+ in revenue. Author of "Predictable Revenue", called the Sales Bible of Silicon Valley. Runs an outbound consulting + podcast operation.
 
 2002–2006 — Employee #150 at Salesforce; built Cold Calling 2.0 framework adding $100M+ ARR  
 2011 — Published "Predictable Revenue" (called "Sales Bible of Silicon Valley")  
@@ -48,7 +48,7 @@ Built Salesforce's outbound engine adding $100M+ in revenue. Author of "Predicta
 [Others](https://predictablerevenue.com/)
 
 ## 5. Chris Walker
-Challenges traditional outbound-first GTM. Runs "GTM Live" — weekly show for SaaS revenue leaders questioning how outbound is executed and measured. He is actively sharing on LinkedIn.
+Challenges traditional outbound-first GTM. Runs "GTM Live", weekly show for SaaS revenue leaders questioning how outbound is executed and measured. He is actively sharing on LinkedIn.
 
 2019 — Founded Refine Labs demand gen agency for B2B SaaS  
 2020 — Launched Revenue Vitals podcast; built large LinkedIn following  
@@ -60,7 +60,7 @@ Challenges traditional outbound-first GTM. Runs "GTM Live" — weekly show for S
 [Podcast](https://podcasts.apple.com/us/podcast/revenue-vitals/id1501046064)
 
 ## 6. Jeremy Chatelaine
-10+ years in cold outreach. Built QuickMail into one of the most deliverability-focused cold email platforms. Co-hosts the "Cold Email Outreach" podcast with real campaign teardowns.
+10+ years in cold outreach. Built QuickMail into one of the most deliverability focused cold email platforms. Co-hosts the "Cold Email Outreach" podcast with real campaign teardowns.
 
 2014 — Founded QuickMail cold email platform  
 2015+ — Started publishing cold email deliverability and open rate research  
