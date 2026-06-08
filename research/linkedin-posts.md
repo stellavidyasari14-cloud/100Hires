@@ -57,6 +57,8 @@ Problems get worse.
 
 And when they do, the person who stayed useful is usually remembered before the person who kept checking in.
 
+![joshfu.](https://media.licdn.com/dms/image/v2/D4E22AQHf39DY1wLOyA/feedshare-shrink_800/B4EZ6jvpGqHoAg-/0/1780863636209?e=1782345600&v=beta&t=2TVKqv0C7RAaheI6GoZMe7B7PCXOTENRZJcY9AF5LgE)
+
 ## Jed Mahrle
 LeadMagic let me try their new chat feature where you literally just describe the list you want and it builds it for you.
 
@@ -168,6 +170,7 @@ This is an invitation to take an honest look at this list. Make a few adjustment
 
 ## Jeremy Chatelaine
 What's stopping you from working like that?
+![Jeremyoutside.](https://media.licdn.com/dms/image/v2/D4E22AQGlIZrI8XHqrw/feedshare-shrink_800/B4EZ6MI7klIUAc-/0/1780467615750?e=1782345600&v=beta&t=DkIIinGLATaDgpqtXhhXRHqe60re0eWR76pWsJEkZ4I)
 
 ## Morgan J. Ingram
 Two years ago I looked around the Valley and realized there were zero B2B sales events in Phoenix... So I got some friends together to create one. 50 people showed up and now we are running it back.
