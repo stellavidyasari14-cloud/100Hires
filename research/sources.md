@@ -44,7 +44,7 @@ Built Salesforce's outbound engine adding $100M+ in revenue. Author of "Predicta
 2016 — Co-authored "From Impossible to Inevitable" with Jason Lemkin  
 
 [LinkedIn](https://www.linkedin.com/in/aaronross/)
-[Podcast](https://predictablerevenue.libsyn.com/)
+[Podcast](https://open.spotify.com/show/4wXSlJXptYF7jU88FNyIpH)
 [Others](https://predictablerevenue.com/)
 
 ## 5. Chris Walker
