@@ -55,64 +55,64 @@ Challenges traditional outbound-first GTM. Runs "GTM Live" — weekly show for S
 2022+ — Became one of the most cited voices challenging spray-and-pray outbound  
 2024 — Relaunched show as "GTM Live" focused on revenue strategy  
 
-LinkedIn https://www.linkedin.com/in/chriswalker171/
-Youtube https://www.youtube.com/@RefineLabs
-Podcast https://podcasts.apple.com/us/podcast/revenue-vitals/id1501046064
+[LinkedIn](https://www.linkedin.com/in/chriswalker171/)
+[Youtube](https://www.youtube.com/@RefineLabs)
+[Podcast](https://podcasts.apple.com/us/podcast/revenue-vitals/id1501046064)
 
 ## 6. Jeremy Chatelaine
 10+ years in cold outreach. Built QuickMail into one of the most deliverability-focused cold email platforms. Co-hosts the "Cold Email Outreach" podcast with real campaign teardowns.
 
-2014 — Founded QuickMail cold email platform
-2015+ — Started publishing cold email deliverability and open rate research
-2020 — Launched "Cold Email Outreach" podcast (co-hosted with Jack Reamer)
-2024+ — 400+ podcast episodes; platform used by thousands of SaaS teams
+2014 — Founded QuickMail cold email platform  
+2015+ — Started publishing cold email deliverability and open rate research  
+2020 — Launched "Cold Email Outreach" podcast (co-hosted with Jack Reamer)  
+2024+ — 400+ podcast episodes; platform used by thousands of SaaS teams  
 
-LinkedIn https://www.linkedin.com/in/jeremychatelaine/
-Youtube https://www.youtube.com/@QuickMailio
-Podcast https://quickmail.libsyn.com/
+[LinkedIn](https://www.linkedin.com/in/jeremychatelaine/)
+[Youtube](https://www.youtube.com/@QuickMailio)
+[Podcast](https://quickmail.libsyn.com/)
 
 ## 7. Morgan J. Ingram
 Started "The SDR Chronicles" YouTube channel as an SDR. Trained Snowflake, Slack, Google, and Salesforce on prospecting at JB Sales. Pioneered LinkedIn voice + video cold outreach tactics.
 
-2016 — Started "The SDR Chronicles" YouTube channel as an SDR at Terminus
-2018 — Joined JB Sales as trainer; trained Snowflake, Slack, Google, Salesforce
-2021 — LinkedIn Top Sales Voice; pioneered LinkedIn voice/video cold outreach
-2022+ — Founded AMP Social; focus on human-first outreach in the AI era
+2016 — Started "The SDR Chronicles" YouTube channel as an SDR at Terminus  
+2018 — Joined JB Sales as trainer; trained Snowflake, Slack, Google, Salesforce  
+2021 — LinkedIn Top Sales Voice; pioneered LinkedIn voice/video cold outreach  
+2022+ — Founded AMP Social; focus on human first outreach in the AI era  
 
-LinkedIn https://www.linkedin.com/in/morganjingram
-YouTube https://www.youtube.com/@MorganJIngram
-Podcast https://podcasts.apple.com/us/podcast/the-sdr-chronicles-with-morgan-j-ingram/id1318279610
+[LinkedIn](https://www.linkedin.com/in/morganjingram)
+[YouTube](https://www.youtube.com/@MorganJIngram)
+[Podcast](https://podcasts.apple.com/us/podcast/the-sdr-chronicles-with-morgan-j-ingram/id1318279610)
 
 ## 8. Nick Abraham
-Runs a portfolio of B2B SaaS companies in the cold outreach space. Known for ICP-first offer creation frameworks — specific results, risk reversal, and niche targeting. 100k+ monthly LinkedIn views.
+Runs a portfolio of B2B SaaS companies in the cold outreach space. Known for ICP first offer creation frameworks, specific results, risk reversal, and niche targeting. 100k+ monthly LinkedIn views.
 
-2019–2020 — Built and ran cold outreach campaigns for SaaS clients
-2020 — Founded Leadbird B2B lead generation agency
-2021+ — Started sharing ICP and offer-creation frameworks on LinkedIn
-2023+ — 100k+ monthly LinkedIn views; known for cold email offer science
+2019–2020 — Built and ran cold outreach campaigns for SaaS clients  
+2020 — Founded Leadbird B2B lead generation agency  
+2021+ — Started sharing ICP and offer-creation frameworks on LinkedIn  
+2023+ — 100k+ monthly LinkedIn views; known for cold email offer science  
 
-LinkedIn https://www.linkedin.com/in/nick-abraham/
-Youtube https://www.youtube.com/@nickabraham 
+[LinkedIn](https://www.linkedin.com/in/nick-abraham/)
+[Youtube](https://www.youtube.com/@nickabraham)
 
 ## 9. Belal Batrawy
-Former SaaS sales leader known for "unteach" content — helping reps unlearn generic outbound habits. Posts practical cold call + email breakdowns. Active on LinkedIn daily with strong engagement.
+Former SaaS sales leader known for "unteach" content, helping reps unlearn generic outbound habits. Posts practical cold call + email breakdowns. Active on LinkedIn daily with strong engagement.
 
-Pre-2019 — 10+ years in SaaS sales; VP and Director-level roles
-2019 — Started "Death to Fluff" brand on LinkedIn; viral outbound teardowns
-2021+ — Became go-to voice for unlearning bad cold outreach habits
-2023+ — Built community around anti-generic outbound; active YouTube channel
+Pre-2019 — 10+ years in SaaS sales; VP and Director-level roles  
+2019 — Started "Death to Fluff" brand on LinkedIn; viral outbound teardowns  
+2021+ — Became go-to voice for unlearning bad cold outreach habits  
+2023+ — Built community around anti-generic outbound; active YouTube channel  
 
-LinkedIn https://www.linkedin.com/in/belbatrawy/
-Youtube https://www.youtube.com/@deathtoflubb
+[LinkedIn](https://www.linkedin.com/in/belbatrawy/)
+[Youtube](https://www.youtube.com/@deathtoflubb)
 
 ## 10. Kevin "KD" Dorsey
 Built and scaled outbound sales teams at PatientPop and ServiceTitan. Known for the "Think/Feel/Know/Do" cold email framework. Focuses on replicable outbound systems for SaaS sales managers.
 
-2016–2020 — VP Inside Sales at PatientPop; scaled outbound sales team
-2018 — Started publishing LinkedIn content on outbound team systems
-2020 — VP of Sales at ServiceTitan; named LinkedIn Top Sales Voice
-2021+ — Founded Sales Leadership Accelerator; podcast + YouTube active
+2016–2020 — VP Inside Sales at PatientPop; scaled outbound sales team  
+2018 — Started publishing LinkedIn content on outbound team systems  
+2020 — VP of Sales at ServiceTitan; named LinkedIn Top Sales Voice  
+2021+ — Founded Sales Leadership Accelerator; podcast + YouTube active  
 
-LinkedIn https://www.linkedin.com/in/kddorsey3/
-Youtube https://www.youtube.com/@kevindorsey3302
-Podcast https://podcasts.apple.com/us/podcast/sales-leadership-accelerator/id1511546295
+[LinkedIn](https://www.linkedin.com/in/kddorsey3/)
+[Youtube](https://www.youtube.com/@kevindorsey3302)
+[Podcast](https://podcasts.apple.com/us/podcast/sales-leadership-accelerator/id1511546295)
