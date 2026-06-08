@@ -77,7 +77,7 @@ Started "The SDR Chronicles" YouTube channel as an SDR. Trained Snowflake, Slack
 2021 — LinkedIn Top Sales Voice; pioneered LinkedIn voice/video cold outreach
 2022+ — Founded AMP Social; focus on human-first outreach in the AI era
 
-LinkedIn https://www.linkedin.com/in/morganjingram/
+LinkedIn https://www.linkedin.com/in/morganjingram
 YouTube https://www.youtube.com/@MorganJIngram
 Podcast https://podcasts.apple.com/us/podcast/the-sdr-chronicles-with-morgan-j-ingram/id1318279610
 
