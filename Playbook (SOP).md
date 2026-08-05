@@ -106,8 +106,8 @@ After
 
 - **Out of office auto replies**: automatically detect OOO replies, extract the backup contact's name via AI, find their work email/LinkedIn, and resend the same offer with a one line intro ("I emailed [name], their autoreply pointed me to you").
 - **Positive reply follow up sequences**: getting a reply is not the same as booking the meeting. Build 5+ follow up touches over 1–2 weeks after any positive reply before giving up on it, and categorize replies (not interested, send more info, wrong person, uses competitor, etc.) so each gets the right templated or AI drafted response fast.
-- **Speed to lead matters more on replies than volume of research** — a fast reply to a positive response outperforms a slow, highly researched one (source: Jed Mahrle, [02.11.2025](https://www.youtube.com/watch?v=13uSFf92LL0)).
-- Recontact closed lost and no show leads on a **3/6/12 months cadence** rather than abandoning them — timing, not fit, is often the real objection (source: Morgan Ingram, [02.06.2026](https://www.youtube.com/watch?v=l5rC2EDw1pU)).
+- **Speed to lead matters more on replies than volume of research**: a fast reply to a positive response outperforms a slow, highly researched one (source: Jed Mahrle, [02.11.2025](https://www.youtube.com/watch?v=13uSFf92LL0)).
+- Recontact closed lost and no show leads on a **3/6/12 months cadence** rather than abandoning them, timing, not fit, is often the real objection (source: Morgan Ingram, [02.06.2026](https://www.youtube.com/watch?v=l5rC2EDw1pU)).
 
 ---
 
