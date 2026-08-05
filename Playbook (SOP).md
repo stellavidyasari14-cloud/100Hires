@@ -20,7 +20,7 @@
 Recommended 7 part structure for a cold email:
 
 1. **Greeting** — first name only, avoid "Dear," which trips spam filters.
-2. **Intro line / hook** — answer "why are you contacting me" immediately; avoid generic openers ("hope this finds you well"); don't outsource this line to AI, it's the line most likely to sound robotic.
+2. **Intro line / hook** — answer "why are you contacting me" immediately, avoid generic openers ("hope this finds you well"), don't outsource this line to AI, it's the line most likely to sound robotic.
 3. **Value proposition** — kept tight, multiple points go in follow ups, not one email.
 4. **Call to action** — must be explicit, match the size of the ask to the level of interest shown so far.
 5. **Signature** — a place to build credibility (press mentions, book, logo) without bragging.
@@ -68,7 +68,7 @@ After
 
 **Infrastructure**
 - Prefer Google/Microsoft hosted inboxes over raw SMTP, SMTP setups tend to degrade faster after spam filter updates.
-- Warm up for a minimum of 2 weeks; 4–6 weeks (or longer) performs and lasts noticeably better if you have the runway.
+- Warm up for a minimum of 2 weeks, 4–6 weeks (or longer) performs and lasts noticeably better if you have the runway.
 - Run a rotation strategy: buy two sets of infrastructure per client/campaign and alternate month to month so you can isolate whether underperformance is an infra issue or an offer issue.
 - Don't isolate a single ISP (e.g., sending only to Gmail) at high volume, domains get flagged faster when the send pattern isn't mixed across providers (source: Nick Abraham, [23.02.2026](https://www.youtube.com/watch?v=h2j0gFz9RH4)).
 - Keep formatting plain text, avoid open tracking, images, PDFs, or links in the **first** email, it's not that it never works, it's that it doesn't hold up at scale/over time (source: Nick Abraham, [23.02.2026](https://www.youtube.com/watch?v=h2j0gFz9RH4); Jeremy Chatelaine, [18.06.2025](https://www.youtube.com/watch?v=zVuJ_MZKqnU)).
@@ -77,7 +77,7 @@ After
 - Validate every list right before sending, and separate catch all domains into their own campaign so a spike in catch all bounces doesn't take down your verified domain sending reputation (source: Nick Abraham, [23.02.2026](https://www.youtube.com/watch?v=h2j0gFz9RH4)).
 
 **Metrics**
-1. **Open rate** — useful early only to confirm inbox placement (40–50%+ is the rough floor); turn tracking off once confirmed, since removing the pixel improves inbox placement (source: Jed Mahrle, [01.05.2026](https://www.youtube.com/watch?v=dlRymPXoOBk); Nick Abraham, [23.02.2026](https://www.youtube.com/watch?v=h2j0gFz9RH4)).
+1. **Open rate** — useful early only to confirm inbox placement (40–50%+ is the rough floor), turn tracking off once confirmed, since removing the pixel improves inbox placement (source: Jed Mahrle, [01.05.2026](https://www.youtube.com/watch?v=dlRymPXoOBk); Nick Abraham, [23.02.2026](https://www.youtube.com/watch?v=h2j0gFz9RH4)).
 2. **Reply rate** — 2% is cited as a workable floor for automated/scaled sending if your TAM is large enough to sustain it.
 3. **Positive reply rate** — aim for roughly 1 in 5 replies (~20%) showing real interest, if it's lower, the fix is usually the offer/CTA, not the hook.
 4. **Emails per positive response** — if it takes 5,000 sends to get one interested reply, the campaign isn't scalable against a small TAM, ~200 sends per positive response is a workable target to scale against (source: Jed Mahrle, [01.05.2026](https://www.youtube.com/watch?v=dlRymPXoOBk)).
@@ -89,7 +89,7 @@ After
 
 - **Colleague name personalization**: use a tool (e.g., Clay) to find the closest colleague to the target contact and drop their name in  either as a closing line ("if it makes more sense to loop in [colleague], let me know") or as the opening line ("wasn't sure if I should reach out to you or [colleague] about this"). This reliably lifts response rates because it signals research was done, but match the scale of the person mentioned to company size (a random name at a 2,000 person enterprise can backfire).
 - **Competitor awareness line**: e.g., *"Do you have a way to monitor when people are frustrated with [competitor]?"*  works because it signals category fluency (source: Jed Mahrle, [01.05.2026](https://www.youtube.com/watch?v=dlRymPXoOBk)).
-- Full one by one AI personalized emails at scale tend to introduce more errors than they're worth; template + a small number of high leverage personalized variables (colleague name, competitor, a researched fact) consistently outperformed fully bespoke AI copy in practice (source: Jed Mahrle, [01.05.2026](https://www.youtube.com/watch?v=dlRymPXoOBk); Nick Abraham, [10.12.2025](https://www.youtube.com/watch?v=2c_mgw23PbY)).
+- Full one by one AI personalized emails at scale tend to introduce more errors than they're worth, template + a small number of high leverage personalized variables (colleague name, competitor, a researched fact) consistently outperformed fully bespoke AI copy in practice (source: Jed Mahrle, [01.05.2026](https://www.youtube.com/watch?v=dlRymPXoOBk); Nick Abraham, [10.12.2025](https://www.youtube.com/watch?v=2c_mgw23PbY)).
 - **A better offer will always outperform better personalization** — if forced to choose between polishing personalization or improving the offer, improve the offer (source: Nick Abraham, [10.12.2025](https://www.youtube.com/watch?v=2c_mgw23PbY)).
 **LinkedIn specific tactics**
 - Keep DMs to ~2 sentences max, most people write LinkedIn messages like emails, which is the mistake, write it like a text (occasional lowercase/typos to feel human).
@@ -119,14 +119,14 @@ Before writing a single email, map:
 3. The ~10–11 universal reasons people buy anything: make money, save money, save time, avoid effort, escape pain/risk, get comfort, achieve status/cleanliness/health, gain praise, feel loved, increase popularity, or simple enjoyment and map your offer (or even just the *action you're asking for*, like watching a video) to as many of these as genuinely apply.
 4. The mirrored list of reasons people **don't** change: fear, pain of change, uncertainty, past bad experience, ego, no perceived need, lack of understanding write directly against the one(s) most likely to be blocking this persona.
 5. Draft 15–20 raw email variants across your themes before selecting the best 6–8 for the live sequence, the good ideas tend to show up after email 4 or 5, once you're "in the flow".
-6. Spread 4–5 different *themes* (not just topics) across a 7–8 email sequence rather than hammering one angle, if a prospect didn't respond to a money saving email, don't assume they need three more money saving emails; try status, then time, then risk (source: Kevin "KD" Dorsey, [10.11.2022](https://www.youtube.com/watch?v=UYBzG3gMeQs)).
+6. Spread 4–5 different *themes* (not just topics) across a 7–8 email sequence rather than hammering one angle, if a prospect didn't respond to a money saving email, don't assume they need three more money saving emails, try status, then time, then risk (source: Kevin "KD" Dorsey, [10.11.2022](https://www.youtube.com/watch?v=UYBzG3gMeQs)).
 
 ---
 
 ## Where Experts Disagree
 
 **1. Ideal email length**
-- **Lavender / Will Allred**: ~50 words is optimal; mobile first brevity is the default recommendation, and their broader dataset backs a ~75 word rule of thumb.
+- **Lavender / Will Allred**: ~50 words is optimal, mobile first brevity is the default recommendation, and their broader dataset backs a ~75 word rule of thumb.
 - **Jed Mahrle**: explicitly pushes back on the 75 word rule as an industry wide average that doesn't hold for every ICP, he's seen 6–7 sentence emails outperform short ones with blue collar/SMB buyers when the length is filled with genuinely relevant information.
 - **My take**: default to short for cold, unproven lists, only justify length once you have data showing your specific ICP reads and rewards more information. Treat "75 words" as a starting hypothesis, not a rule.
 
