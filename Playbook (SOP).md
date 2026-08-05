@@ -109,10 +109,10 @@ Recommended 7 part structure for a cold email:
 Before writing a single email, map:
 1. What you want the reader to **feel** (drives everything downstream) (source: Belal Batrawy, [02.11.2022](https://www.youtube.com/watch?v=GHq9ZwuGjD4)).
 2. What action you want **this specific email** vs. the **sequence as a whole** to produce (a click vs. a reply are different goals and need different copy) (source: Jed Mahrle, [01.05.2026](https://www.youtube.com/watch?v=dlRymPXoOBk)).
-3. The ~10–11 universal reasons people buy anything: make money, save money, save time, avoid effort, escape pain/risk, get comfort, achieve status/cleanliness/health, gain praise, feel loved, increase popularity, or simple enjoyment — and map your offer (or even just the *action you're asking for*, like watching a video) to as many of these as genuinely apply.
-4. The mirrored list of reasons people **don't** change: fear, pain of change, uncertainty, past bad experience, ego, no perceived need, lack of understanding — write directly against the one(s) most likely to be blocking this persona.
-5. Draft 15–20 raw email variants across your themes before selecting the best 6–8 for the live sequence — the good ideas tend to show up after email 4 or 5, once you're "in the flow".
-6. Spread 4–5 different *themes* (not just topics) across a 7–8 email sequence rather than hammering one angle — if a prospect didn't respond to a money-saving email, don't assume they need three more money-saving emails; try status, then time, then risk (source: Kevin "KD" Dorsey, [10.11.2022](https://www.youtube.com/watch?v=UYBzG3gMeQs)).
+3. The ~10–11 universal reasons people buy anything: make money, save money, save time, avoid effort, escape pain/risk, get comfort, achieve status/cleanliness/health, gain praise, feel loved, increase popularity, or simple enjoyment and map your offer (or even just the *action you're asking for*, like watching a video) to as many of these as genuinely apply.
+4. The mirrored list of reasons people **don't** change: fear, pain of change, uncertainty, past bad experience, ego, no perceived need, lack of understanding write directly against the one(s) most likely to be blocking this persona.
+5. Draft 15–20 raw email variants across your themes before selecting the best 6–8 for the live sequence, the good ideas tend to show up after email 4 or 5, once you're "in the flow".
+6. Spread 4–5 different *themes* (not just topics) across a 7–8 email sequence rather than hammering one angle, if a prospect didn't respond to a money saving email, don't assume they need three more money saving emails; try status, then time, then risk (source: Kevin "KD" Dorsey, [10.11.2022](https://www.youtube.com/watch?v=UYBzG3gMeQs)).
 
 ---
 
