@@ -94,7 +94,7 @@ After
 **LinkedIn specific tactics**
 - Keep DMs to ~2 sentences max, most people write LinkedIn messages like emails, which is the mistake, write it like a text (occasional lowercase/typos to feel human).
 - Use a 3 message sequence: (1) a curiosity question, (2) a resource/more context, (3) an ask to chat (source: Jed Mahrle, [01.05.2026](https://www.youtube.com/watch?v=dlRymPXoOBk)).
-- Send blank connection requests (no note) — ambiguity outperforms a note in acceptance rate, because a note is more likely to read as an immediate pitch (source: Morgan Ingram, [02.06.2026](https://www.youtube.com/watch?v=l5rC2EDw1pU)).
+- Send blank connection requests (no note) ambiguity outperforms a note in acceptance rate, because a note is more likely to read as an immediate pitch (source: Morgan Ingram, [02.06.2026](https://www.youtube.com/watch?v=l5rC2EDw1pU)).
 - LinkedIn typically converts lead to meeting at a higher rate than email, but the volume ceiling (roughly 30 connection requests/day) means it can't be a standalone pipeline engine on its own (source: Jed Mahrle, [01.05.2026](https://www.youtube.com/watch?v=dlRymPXoOBk)).
 
 **Sender identity**
