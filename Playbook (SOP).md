@@ -6,11 +6,11 @@
 
 ## 1. Define ICP & Source Leads
 
-- Define your Total Addressable Market first: company size, tech stack (e.g., Salesforce vs. HubSpot), job titles — then find every company/contact that fits it before segmenting further (source: Jed Mahrle, [16.02.2024](https://www.youtube.com/watch?v=loExKWJdKek)). 
-- Favor **broad segments that still convert at a high rate** over hyper-niche signal-based lists — niche lists have too few contacts to iterate on and make it hard to get real data (source: Jed Mahrle, [01.05.2026](https://www.youtube.com/watch?v=dlRymPXoOBk)).
-- Recommended stack for sourcing/enrichment: Clay for waterfall enrichment and finding verified emails, Smartlead for sending, tools like 6sense/Bombora for intent data — but treat these as inputs, not the whole strategy (source: Jed Mahrle, [16.02.2024](https://www.youtube.com/watch?v=loExKWJdKek)). 
-- Use AI for pre-intent signal targeting: trigger events, technographic data, and hypothesis-building about a company's likely problems — this beats generic firmographic targeting (source: Jed Mahrle, [16.02.2024](https://www.youtube.com/watch?v=loExKWJdKek)). 
-- On Sales Navigator: filter for people with **"years in current position < 1 year"** inside large accounts — recent hires are psychologically primed for change and are lower-hanging fruit than long-tenured employees (source: Morgan Ingram, [02.06.2026](https://www.youtube.com/watch?v=l5rC2EDw1pU)).
+- Define your Total Addressable Market first: company size, tech stack (e.g., Salesforce vs. HubSpot), job titles, then find every company/contact that fits it before segmenting further (source: Jed Mahrle, [16.02.2024](https://www.youtube.com/watch?v=loExKWJdKek)). 
+- Favor **broad segments that still convert at a high rate** over hyper-niche signal-based lists, niche lists have too few contacts to iterate on and make it hard to get real data (source: Jed Mahrle, [01.05.2026](https://www.youtube.com/watch?v=dlRymPXoOBk)).
+- Recommended stack for sourcing/enrichment: Clay for waterfall enrichment and finding verified emails, Smartlead for sending, tools like 6sense/Bombora for intent data,  but treat these as inputs, not the whole strategy (source: Jed Mahrle, [16.02.2024](https://www.youtube.com/watch?v=loExKWJdKek)). 
+- Use AI for pre-intent signal targeting: trigger events, technographic data, and hypothesis-building about a company's likely problems, this beats generic firmographic targeting (source: Jed Mahrle, [16.02.2024](https://www.youtube.com/watch?v=loExKWJdKek)). 
+- On Sales Navigator: filter for people with **"years in current position < 1 year"** inside large accounts, recent hires are psychologically primed for change and are lower-hanging fruit than long-tenured employees (source: Morgan Ingram, [02.06.2026](https://www.youtube.com/watch?v=l5rC2EDw1pU)).
 - Use the **"Connections of"** filter against people you're already connected to (execs, customers, partners) who previously worked at a target account, to source warm referral paths  (source: Morgan Ingram, [02.06.2026](https://www.youtube.com/watch?v=l5rC2EDw1pU)).
 
 ---
