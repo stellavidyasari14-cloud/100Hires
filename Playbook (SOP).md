@@ -27,6 +27,15 @@ Recommended 7 part structure for a cold email:
 6. **P.S.** — optional but adds humanity; doesn't need to relate to the offer.
 7. **Link/attachment thumbnail** — Gmail/Outlook auto generate previews from links/PDFs; make sure it looks intentional (source: Jeremy Chatelaine, [27.08.2025](https://www.youtube.com/watch?v=wFzoXKha4gQ)).
 
+**Use Sandwich Methods**
+Open with question and close with question. 
+Before 
+<img width="990" height="309" alt="Screenshot 2026-08-05 at 17 33 39" src="https://github.com/user-attachments/assets/e684a078-cbdf-421a-9e0a-1f8b480ba0d4" />
+
+After
+<img width="990" height="651" alt="Screenshot 2026-08-05 at 17 34 02" src="https://github.com/user-attachments/assets/e42b9526-d686-4ac0-8706-7c7644104ffe" />
+
+
 **Hook formulas that outperform surface level "I noticed X" lines:**
 - Go one layer deeper than the observation everyone else makes: not *"I saw you raised a Series A"* but *"we have customers who share the same investors as you, want to see how they use us?"*
 - "Poke the bear" questions: *"How are you thinking about X?"*  designed to get the prospect to engage with the problem in their own words rather than being told they have it
@@ -36,6 +45,8 @@ Recommended 7 part structure for a cold email:
 - Design mobile first, the first open is ~8x more likely to happen on a phone than desktop. Break up walls of text, separate quotes/stats visually
 - ~50 words is a strong length benchmark for a cold email, but relevance beats word count — long emails can outperform short ones with the right audience.
 - Avoid an assumptive opening ("I have a product relevant to your work")  it reverses the buyer/seller relationship and creates resistance. Lead with a question that gives context instead (source: Will Allred, [24.02.2021](https://www.youtube.com/watch?v=6jmVEM72t7o)).
+<img width="990" height="309" alt="Screenshot 2026-08-05 at 17 33 39" src="https://github.com/user-attachments/assets/235328c0-7966-4709-918e-f4f9eaddf3b8" />
+<img width="990" height="309" alt="Screenshot 2026-08-05 at 17 33 39" src="https://github.com/user-attachments/assets/2d3e952b-9a1f-44aa-83fe-cc71b9aa4d5c" />
 
 ---
 
