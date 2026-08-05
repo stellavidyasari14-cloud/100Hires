@@ -140,6 +140,11 @@ Before writing a single email, map:
 - **Morgan Ingram**: treats LinkedIn (Sales Navigator sourced, blank connection request driven) as viable to be the dominant channel for an individual rep, citing reps who book 80% of meetings from LinkedIn alone.
 - **My take**: these aren't fully contradictory, Mahrle is describing agency scale campaign volume across many accounts, Ingram is describing a single rep's personal quota carrying activity. Use LinkedIn mainly as high value deals.
 
+**4. Attachment vs no Attachment on the first email**
+- **Nick Abraham**: Keep formatting plain text, avoid open tracking, images, PDFs, or links in the first email, it's not that it never works, it's that it doesn't hold up at scale/over time. 
+- **Jeremy Chatelaine**: Gmail/Outlook auto generate previews from links/PDFs, make sure it looks intentional.
+- **My take**: make sure the link are relevant and boost the chance to get positive response, A/B test with link, without link and which link generate more engagement. 
+
 ---
 
 ## What I Rejected and Why
@@ -151,7 +156,56 @@ Before writing a single email, map:
 
 ## My Original Ideas (not found directly in the sources)
 
-**Cross-SaaS collaborative outreach**: instead of only prospecting cold leads directly, identify complementary (non-competing) SaaS companies serving the same ICP and propose a joint outreach or content exchange (e.g., co branded email to each other's customer/prospect base, or a "colleague name" style intro where the complementary company's champion refers you in). This borrows the "colleague name" trust transfer mechanic (Section 6) but applies it at the company partnership level instead of the individual contact level, and could offset rising cold send costs with warmer, referral volume. Worth testing in small batches before treating it as a channel.
+### 1. Cross-SaaS Partnership Outreach
+
+Instead of relying solely on cold outreach, partner with **complementary (non-competing) SaaS companies** that target the same ideal customer profile (ICP).
+
+Potential collaborations include:
+
+* Co-branded email campaigns to each other's audiences
+* Joint webinars or educational content
+* Newsletter swaps
+* Warm introductions from partner account managers or customer success teams
+* Bundled resources (guides, templates, playbooks)
+
+This extends the "borrowed trust" principle by transferring credibility **between companies**, not just individuals. If successful, it can reduce customer acquisition costs while increasing reply and conversion rates compared with traditional cold outreach.
+
+> **Hypothesis:** Warm partner referrals will outperform purely cold outreach in reply rate, meeting bookings, and customer acquisition cost.
+
+---
+
+### 2. Build Credibility Before the First Email
+
+Prospects judge your legitimacy within seconds.
+
+Increase trust by ensuring every touchpoint looks professional:
+
+* Send from a real company domain (avoid generic or suspicious-looking addresses)
+* Use a recognizable sender name and photo
+* Include a complete email signature with LinkedIn and company website
+* Maintain consistent branding across your website, LinkedIn, and email
+* Keep your domain healthy (authentication, low spam score, consistent sending practices)
+
+A credible identity can improve open rates, replies, and overall deliverability before prospects even read your message.
+
+---
+
+### 3. Speak the Customer's Industry Language
+
+Generic messaging is easy to ignore. Tailor your outreach to reflect how your prospects actually think and communicate.
+
+Instead of describing your product features, reference:
+
+* Industry specific terminology
+* Common workflows and pain points
+* Relevant regulations or market trends
+* Key metrics they care about
+* Familiar tools and software they already use
+
+This makes your outreach feel more relevant, demonstrates expertise, and increases the likelihood of engagement.
+
+> **Example:** A message to an HR leader should discuss hiring velocity, time-to-fill, candidate quality, and recruiter productivity—not generic statements about "saving time."
+
 
 ---
 
@@ -166,8 +220,8 @@ Before writing a single email, map:
 
 ## Who I Would NOT Recommend Following (for cold outreach specifically)
 
-- **Josh Braun** — excellent, well regarded content, but it's cold calling and objection handling focused rather than cold email/sequence writing focused. Better fit for AE/sales conversation skill building than for building an outbound email pipeline 
-- **Aaron Ross**, specifically on the newer AI agent/full automation content the original *Predictable Revenue* framework (seeds/nets/spears, dedicated SDR role) is foundational and worth keeping, but the newer "AI does everything" pitch conflicts with more grounded, tested guidance from Mahrle and Abraham on personalization at scale 
-- **Chris Walker** — genuinely valuable, but at the org design/CFO alignment/unit economics level, not the day to day cold email/sequence level. Best used by a founder or VP thinking about whether and how much to invest in outbound, not by someone writing the actual sequences 
+- **Josh Braun** — excellent, well regarded content, but it's cold calling and objection handling focused rather than cold email/sequence writing focused. Better fit for AE/sales conversation skill building than for building an outbound email pipeline.
+- **Aaron Ross**, specifically on the newer AI agent/full automation content the original *Predictable Revenue* framework (seeds/nets/spears, dedicated SDR role) is foundational and worth keeping, but the newer "AI does everything" pitch conflicts with more grounded, tested guidance from Mahrle and Abraham on personalization at scale.
+- **Chris Walker** — genuinely valuable, but at the org design/CFO alignment/unit economics level, not the day to day cold email/sequence level. Best used by a founder or VP thinking about whether and how much to invest in outbound, not by someone writing the actual sequences.
 
 
