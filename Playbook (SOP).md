@@ -45,8 +45,6 @@ After
 - Design mobile first, the first open is ~8x more likely to happen on a phone than desktop. Break up walls of text, separate quotes/stats visually
 - ~50 words is a strong length benchmark for a cold email, but relevance beats word count — long emails can outperform short ones with the right audience.
 - Avoid an assumptive opening ("I have a product relevant to your work")  it reverses the buyer/seller relationship and creates resistance. Lead with a question that gives context instead (source: Will Allred, [24.02.2021](https://www.youtube.com/watch?v=6jmVEM72t7o)).
-<img width="990" height="309" alt="Screenshot 2026-08-05 at 17 33 39" src="https://github.com/user-attachments/assets/235328c0-7966-4709-918e-f4f9eaddf3b8" />
-<img width="990" height="309" alt="Screenshot 2026-08-05 at 17 33 39" src="https://github.com/user-attachments/assets/2d3e952b-9a1f-44aa-83fe-cc71b9aa4d5c" />
 
 ---
 
