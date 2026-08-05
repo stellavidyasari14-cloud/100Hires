@@ -6,7 +6,7 @@
 
 ## 1. Define ICP & Source Leads
 
-- Define your Total Addressable Market first: company size, tech stack (e.g., Salesforce vs. HubSpot), job titles — then find every company/contact that fits it before segmenting further (source: Jed Mahrle, *AMA Session — Practical Prospecting*, Hard Skill Exchange).
+- Define your Total Addressable Market first: company size, tech stack (e.g., Salesforce vs. HubSpot), job titles — then find every company/contact that fits it before segmenting further (source: Jed Mahrle, [16.02.2024](https://www.youtube.com/watch?v=loExKWJdKek). 
 - Favor **broad segments that still convert at a high rate** over hyper-niche signal-based lists — niche lists have too few contacts to iterate on and make it hard to get real data (source: Jed Mahrle, *How Top Reps Are Winning in a Saturated Outbound Market*, Parakeet).
 - Recommended stack for sourcing/enrichment: Clay for waterfall enrichment and finding verified emails, Smartlead for sending, tools like 6sense/Bombora for intent data — but treat these as inputs, not the whole strategy (source: Jed Mahrle, *AMA Session*).
 - Use AI for pre-intent signal targeting: trigger events, technographic data, and hypothesis-building about a company's likely problems — this beats generic firmographic targeting (source: Jed Mahrle, *AMA Session*).
