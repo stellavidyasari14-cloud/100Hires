@@ -172,8 +172,6 @@ This extends the "borrowed trust" principle by transferring credibility **betwee
 
 > **Hypothesis:** Warm partner referrals will outperform purely cold outreach in reply rate, meeting bookings, and customer acquisition cost.
 
----
-
 ### 2. Build Credibility Before the First Email
 
 Prospects judge your legitimacy within seconds.
@@ -187,8 +185,6 @@ Increase trust by ensuring every touchpoint looks professional:
 * Keep your domain healthy (authentication, low spam score, consistent sending practices)
 
 A credible identity can improve open rates, replies, and overall deliverability before prospects even read your message.
-
----
 
 ### 3. Speak the Customer's Industry Language
 
