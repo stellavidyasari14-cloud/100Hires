@@ -71,10 +71,10 @@ After
 - Warm up for a minimum of 2 weeks; 4–6 weeks (or longer) performs and lasts noticeably better if you have the runway.
 - Run a rotation strategy: buy two sets of infrastructure per client/campaign and alternate month to month so you can isolate whether underperformance is an infra issue or an offer issue.
 - Don't isolate a single ISP (e.g., sending only to Gmail) at high volume, domains get flagged faster when the send pattern isn't mixed across providers (source: Nick Abraham, [23.02.2026](https://www.youtube.com/watch?v=h2j0gFz9RH4)).
-- Keep formatting plain text, avoid open tracking, images, PDFs, or links in the **first** email, it's not that it never works, it's that it doesn't hold up at scale/over time (source: Nick Abraham, [23.02.2026](https://www.youtube.com/watch?v=h2j0gFz9RH4) ,Jeremy Chatelaine, [18.06.2025](https://www.youtube.com/watch?v=zVuJ_MZKqnU)).
+- Keep formatting plain text, avoid open tracking, images, PDFs, or links in the **first** email, it's not that it never works, it's that it doesn't hold up at scale/over time (source: Nick Abraham, [23.02.2026](https://www.youtube.com/watch?v=h2j0gFz9RH4); Jeremy Chatelaine, [18.06.2025](https://www.youtube.com/watch?v=zVuJ_MZKqnU)).
 - Randomize send windows (±30 min around a target time) rather than firing at the exact same time daily, test afternoon sends and even weekends for SMB/mid market,  mornings are when people *clear* inboxes, afternoons are often when they *catch up* and reply
 - Strip contacts protected by enterprise email security gateways (Proofpoint, Barracuda, Mimecast) from cold lists, they tank deliverability disproportionately. 
-- Validate every list right before sending, and separate catch all domains into their own campaign so a spike in catch all bounces doesn't take down your verified domain sending reputation (source: Nick Abraham; [23.02.2026](https://www.youtube.com/watch?v=h2j0gFz9RH4)).
+- Validate every list right before sending, and separate catch all domains into their own campaign so a spike in catch all bounces doesn't take down your verified domain sending reputation (source: Nick Abraham, [23.02.2026](https://www.youtube.com/watch?v=h2j0gFz9RH4)).
 
 **Metrics**
 1. **Open rate** — useful early only to confirm inbox placement (40–50%+ is the rough floor); turn tracking off once confirmed, since removing the pixel improves inbox placement (source: Jed Mahrle, [01.05.2026](https://www.youtube.com/watch?v=dlRymPXoOBk); Nick Abraham, [23.02.2026](https://www.youtube.com/watch?v=h2j0gFz9RH4)).
