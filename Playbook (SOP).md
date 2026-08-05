@@ -20,12 +20,12 @@
 Recommended 7 part structure for a cold email:
 
 1. **Greeting** — first name only, avoid "Dear," which trips spam filters.
-2. **Intro line / hook** — answer "why are you contacting me" immediately; avoid generic openers ("hope this finds you well"); don't outsource this line to AI — it's the line most likely to sound robotic (source: Jeremy Chatelaine, *Proven Cold Email Structure*).
+2. **Intro line / hook** — answer "why are you contacting me" immediately; avoid generic openers ("hope this finds you well"); don't outsource this line to AI, it's the line most likely to sound robotic (source: Jeremy Chatelaine, *Proven Cold Email Structure*).
 3. **Value proposition** — kept tight; multiple points go in follow ups, not one email.
-4. **Call to action** — must be explicit; match the size of the ask to the level of interest shown so far.
+4. **Call to action** — must be explicit, match the size of the ask to the level of interest shown so far.
 5. **Signature** — a place to build credibility (press mentions, book, logo) without bragging.
-6. **P.S.** — optional but adds humanity; doesn't need to relate to the offer.
-7. **Link/attachment thumbnail** — Gmail/Outlook auto generate previews from links/PDFs; make sure it looks intentional (source: Jeremy Chatelaine, [27.08.2025](https://www.youtube.com/watch?v=wFzoXKha4gQ)).
+6. **P.S.** — optional but adds humanity, doesn't need to relate to the offer.
+7. **Link/attachment thumbnail** — Gmail/Outlook auto generate previews from links/PDFs, make sure it looks intentional (source: Jeremy Chatelaine, [27.08.2025](https://www.youtube.com/watch?v=wFzoXKha4gQ)).
 
 
 Before 
