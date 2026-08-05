@@ -27,13 +27,13 @@ Recommended 7 part structure for a cold email:
 6. **P.S.** — optional but adds humanity; doesn't need to relate to the offer.
 7. **Link/attachment thumbnail** — Gmail/Outlook auto generate previews from links/PDFs; make sure it looks intentional (source: Jeremy Chatelaine, [27.08.2025](https://www.youtube.com/watch?v=wFzoXKha4gQ)).
 
-**Use Sandwich Methods**
-Open with question and close with question. 
+
 Before 
 <img width="990" height="309" alt="Screenshot 2026-08-05 at 17 33 39" src="https://github.com/user-attachments/assets/e684a078-cbdf-421a-9e0a-1f8b480ba0d4" />
 
 After
 <img width="990" height="651" alt="Screenshot 2026-08-05 at 17 34 02" src="https://github.com/user-attachments/assets/e42b9526-d686-4ac0-8706-7c7644104ffe" />
+(source: Will Allred, [24.02.2021](https://www.youtube.com/watch?v=6jmVEM72t7o)).
 
 
 **Hook formulas that outperform surface level "I noticed X" lines:**
